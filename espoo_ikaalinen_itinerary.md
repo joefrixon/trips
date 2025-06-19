@@ -1,3 +1,9 @@
+https://github.com/joefrixon/trips/blob/main/espoo_ikaalinen_itinerary_v2.md
+
+Below is not longer valid
+
+
+
 # 🚗 Espoo to Ikaalinen Spa - Midsummer Weekend Road Trip
 **June 20-21, 2025 | Three Families Adventure**
 
