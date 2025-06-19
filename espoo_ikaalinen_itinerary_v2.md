@@ -29,7 +29,7 @@ Get ready for an amazing midsummer weekend adventure! 🌞
 **📍 Karjaa/Karis (30 minutes from Espoo)**
 **🗺️ Address**: Torikatu 1, 10300 Karjaa, Finland  
 **📱 Waze**: https://waze.com/ul?ll=60.0701,23.6647&navigate=yes
-**🗺️ Google Maps**: https://goo.gl/maps/4Qw6Qw6Qw6Q2
+**🗺️ Google Maps**: https://maps.google.com/?q=Torikatu+1,+10300+Karjaa,+Finland
 **📏 Distance**: ~45 km from Espoo
 - **Mission**: Quick Swedish-Finnish coffee culture + fuel stop
 - **Intel**: Historic railway town - perfect for fast photo ops
@@ -46,7 +46,7 @@ Get ready for an amazing midsummer weekend adventure! 🌞
 **📍 Forssa (45 minutes from Karjaa)**
 **🗺️ Address**: Keskuskatu 16, 30100 Forssa, Finland  
 **📱 Waze**: https://waze.com/ul?ll=60.8146,23.6242&navigate=yes
-**🗺️ Google Maps**: https://goo.gl/maps/6Qw6Qw6Qw6Q2
+**🗺️ Google Maps**: https://maps.google.com/?q=Keskuskatu+16,+30100+Forssa,+Finland
 **📏 Distance**: ~65 km from Karjaa
 - **Mission**: Proper lunch + quick cultural reconnaissance
 - **Intel**: Perfect timing for early lunch before spa arrival
@@ -75,7 +75,7 @@ Get ready for an amazing midsummer weekend adventure! 🌞
 **📍 Ikaalinen Village Center**
 **🗺️ Address**: Vanha Tampereentie 6, 39500 Ikaalinen, Finland  
 **📱 Waze**: https://waze.com/ul?ll=61.7703,23.0709&navigate=yes
-**🗺️ Google Maps**: https://goo.gl/maps/8Qw6Qw6Qw6Q2
+**🗺️ Google Maps**: https://maps.google.com/?q=Vanha+Tampereentie+6,+39500+Ikaalinen,+Finland
 **📏 Distance**: ~85 km from Forssa
 - **Mission**: Lightning-fast historic church photo op
 - **Intel**: 1641 wooden church - can't miss this shot!
@@ -92,7 +92,7 @@ Get ready for an amazing midsummer weekend adventure! 🌞
 **📍 Ikaalinen Spa & Resort - Huvilatie 2, 39500 Ikaalinen**
 **🗺️ Main Destination Address**: Huvilatie 2, 39500 Ikaalinen, Finland  
 **📱 Waze Direct Link**: https://waze.com/ul?ll=61.7763,23.0205&navigate=yes  
-**🗺️ Google Maps**: https://goo.gl/maps/2Qw6Qw6Qw6Q2
+**🗺️ Google Maps**: https://maps.google.com/?q=Huvilatie+2,+39500+Ikaalinen,+Finland
 **📏 Distance**: ~2 km from Ikaalinen Church
 **📞 Resort Phone**: +358 3 4521 200
 
@@ -188,7 +188,7 @@ Get ready for an amazing midsummer weekend adventure! 🌞
 
 ---
 
-## �� **DAY 2: SATURDAY, JUNE 21, 2025 - MIDSUMMER DAY RECOVERY & MORE FUN!**
+## 🌦️ **DAY 2: SATURDAY, JUNE 21, 2025 - MIDSUMMER DAY RECOVERY & MORE FUN!**
 
 ### **8:00-10:00 AM - Recovery Mission & Breakfast** ☕🍳
 - **Hangover Headquarters**: Resort restaurant buffet
@@ -234,7 +234,7 @@ Get ready for an amazing midsummer weekend adventure! 🌞
 **📍 Tampere City Center (45 minutes from Ikaalinen)**
 **🗺️ Address**: Näkötornintie 20, 33230 Tampere, Finland (Pyynikki Observation Tower)  
 **📱 Waze**: https://waze.com/ul?ll=61.4962,23.7326&navigate=yes
-**🗺️ Google Maps**: https://goo.gl/maps/3Qw6Qw6Qw6Q2
+**🗺️ Google Maps**: https://maps.google.com/?q=Näkötornintie+20,+33230+Tampere,+Finland
 **📏 Distance**: ~55 km from Ikaalinen Spa
 - **Mission**: Urban exploration + caffeine reinforcement
 - **Priority Target**: **Pyynikki Observation Tower & Café**
@@ -252,7 +252,7 @@ Get ready for an amazing midsummer weekend adventure! 🌞
 **📍 Hämeenlinna (1 hour from Tampere)**
 **🗺️ Address**: Kustaa III:n katu 6, 13100 Hämeenlinna, Finland  
 **📱 Waze**: https://waze.com/ul?ll=61.0035,24.4582&navigate=yes
-**🗺️ Google Maps**: https://goo.gl/maps/5Qw6Qw6Qw6Q2
+**🗺️ Google Maps**: https://maps.google.com/?q=Kustaa+III:n+katu+6,+13100+Hämeenlinna,+Finland
 **📏 Distance**: ~75 km from Tampere
 - **Mission**: Last major photo opportunity + final snacks
 - **Activities**:
@@ -330,38 +330,38 @@ Get ready for an amazing midsummer weekend adventure! 🌞
    📍 Torikatu 1, 10300 Karjaa, Finland  
    📏 ~45 km from Espoo
    🗺️ https://waze.com/ul?ll=60.0701,23.6647&navigate=yes
-   🗺️ Google Maps: https://goo.gl/maps/4Qw6Qw6Qw6Q2
+   🗺️ Google Maps: https://maps.google.com/?q=Torikatu+1,+10300+Karjaa,+Finland
 
 2. **Forssa (Ravintola Wanha Posti)**  
    📍 Keskuskatu 16, 30100 Forssa, Finland  
    📏 ~65 km from Karjaa
    🗺️ https://waze.com/ul?ll=60.8146,23.6242&navigate=yes
-   🗺️ Google Maps: https://goo.gl/maps/6Qw6Qw6Qw6Q2
+   🗺️ Google Maps: https://maps.google.com/?q=Keskuskatu+16,+30100+Forssa,+Finland
 
 3. **Ikaalinen Church (Ikaalisten kirkko)**  
    📍 Vanha Tampereentie 6, 39500 Ikaalinen, Finland  
    📏 ~85 km from Forssa
    🗺️ https://waze.com/ul?ll=61.7703,23.0709&navigate=yes
-   🗺️ Google Maps: https://goo.gl/maps/8Qw6Qw6Qw6Q2
+   🗺️ Google Maps: https://maps.google.com/?q=Vanha+Tampereentie+6,+39500+Ikaalinen,+Finland
 
 4. **🎯 MAIN DESTINATION: Ikaalinen Spa & Resort**  
    📍 Huvilatie 2, 39500 Ikaalinen, Finland  
    📏 ~2 km from Ikaalinen Church
    🗺️ https://waze.com/ul?ll=61.7763,23.0205&navigate=yes  
-   🗺️ Google Maps: https://goo.gl/maps/2Qw6Qw6Qw6Q2
+   🗺️ Google Maps: https://maps.google.com/?q=Huvilatie+2,+39500+Ikaalinen,+Finland
    📞 +358 3 4521 200
 
 5. **Pyynikki Observation Tower (Pyynikin näkötorni), Tampere**  
    📍 Näkötornintie 20, 33230 Tampere, Finland  
    📏 ~55 km from Ikaalinen Spa
    🗺️ https://waze.com/ul?ll=61.4962,23.7326&navigate=yes
-   🗺️ Google Maps: https://goo.gl/maps/3Qw6Qw6Qw6Q2
+   🗺️ Google Maps: https://maps.google.com/?q=Näkötornintie+20,+33230+Tampere,+Finland
 
 6. **Häme Castle (Hämeen linna), Hämeenlinna**  
    📍 Kustaa III:n katu 6, 13100 Hämeenlinna, Finland  
    📏 ~75 km from Tampere
    🗺️ https://waze.com/ul?ll=61.0035,24.4582&navigate=yes
-   🗺️ Google Maps: https://goo.gl/maps/5Qw6Qw6Qw6Q2
+   🗺️ Google Maps: https://maps.google.com/?q=Kustaa+III:n+katu+6,+13100+Hämeenlinna,+Finland
 
 ---
 
