@@ -28,7 +28,7 @@ Get ready for an amazing midsummer weekend adventure! 🌞
 ### **10:00 AM - CHECKPOINT 1: Karjaa Coffee & Fuel Blitz**
 **📍 Karjaa/Karis (30 minutes from Espoo)**
 **🗺️ Address**: Torget 1, 10300 Karjaa, Finland  
-**📱 Waze**: https://waze.com/ul/h9vf0w3wgn
+**📱 Waze**: https://waze.com/ul?ll=60.0701,23.6667&navigate=yes
 - **Mission**: Quick Swedish-Finnish coffee culture + fuel stop
 - **Intel**: Historic railway town - perfect for fast photo ops
 - **Express Activities**:
@@ -43,7 +43,7 @@ Get ready for an amazing midsummer weekend adventure! 🌞
 ### **10:45 AM - CHECKPOINT 2: Forssa Riverside Lunch Break**
 **📍 Forssa (45 minutes from Karjaa)**
 **🗺️ Address**: Keskuskatu 16, 30100 Forssa, Finland  
-**📱 Waze**: https://waze.com/ul/h9vf0xhfxg
+**📱 Waze**: https://waze.com/ul?ll=60.8146,23.6242&navigate=yes
 - **Mission**: Proper lunch + quick cultural reconnaissance
 - **Intel**: Perfect timing for early lunch before spa arrival
 - **Activities**:
@@ -70,7 +70,7 @@ Get ready for an amazing midsummer weekend adventure! 🌞
 ### **1:30 PM - FINAL APPROACH: Ikaalinen Village Quick Reconnaissance**
 **📍 Ikaalinen Village Center**
 **🗺️ Address**: Kirkkotie 1, 39500 Ikaalinen, Finland  
-**📱 Waze**: https://waze.com/ul/h9vf0z4dqz
+**📱 Waze**: https://waze.com/ul?ll=61.7701,23.0702&navigate=yes
 - **Mission**: Lightning-fast historic church photo op
 - **Intel**: 1641 wooden church - can't miss this shot!
 - **Express Operation**:
@@ -85,7 +85,7 @@ Get ready for an amazing midsummer weekend adventure! 🌞
 ### **2:00 PM - BASE CAMP SECURED: PARTY HEADQUARTERS ESTABLISHED!** 🏨🎉
 **📍 Ikaalinen Spa & Resort - Hämeentie 6, 39500 Ikaalinen**
 **🗺️ Main Destination Address**: Hämeentie 6, 39500 Ikaalinen, Finland  
-**📱 Waze Direct Link**: https://waze.com/ul/h9vf12nrh8  
+**📱 Waze Direct Link**: https://waze.com/ul?ll=61.7706,23.0772&navigate=yes  
 **📞 Resort Phone**: +358 3 4521 200
 
 ---
@@ -225,7 +225,7 @@ Get ready for an amazing midsummer weekend adventure! 🌞
 ### **2:45 PM - CHECKPOINT 1: Tampere Recovery Stop**
 **📍 Tampere City Center (45 minutes from Ikaalinen)**
 **🗺️ Address**: Pyynikintie 1, 33230 Tampere, Finland (Pyynikki Tower)  
-**📱 Waze**: https://waze.com/ul/h9vf14m2s1
+**📱 Waze**: https://waze.com/ul?ll=61.4951,23.7262&navigate=yes
 - **Mission**: Urban exploration + caffeine reinforcement
 - **Priority Target**: **Pyynikki Observation Tower & Café**
 - **Activities**:
@@ -241,7 +241,7 @@ Get ready for an amazing midsummer weekend adventure! 🌞
 ### **4:15 PM - CHECKPOINT 2: Hämeenlinna Castle Final Photo Op**
 **📍 Hämeenlinna (1 hour from Tampere)**
 **🗺️ Address**: Kustaa III:n katu 6, 13100 Hämeenlinna, Finland  
-**📱 Waze**: https://waze.com/ul/h9vf16k8p4
+**📱 Waze**: https://waze.com/ul?ll=60.9950,24.4642&navigate=yes
 - **Mission**: Last major photo opportunity + final snacks
 - **Activities**:
   - Medieval castle exterior shots
@@ -316,28 +316,28 @@ Get ready for an amazing midsummer weekend adventure! 🌞
 
 1. **Karjaa Market Square**  
    📍 Torget 1, 10300 Karjaa, Finland  
-   🗺️ https://waze.com/ul/h9vf0w3wgn
+   🗺️ https://waze.com/ul?ll=60.0701,23.6667&navigate=yes
 
 2. **Forssa (Ravintola Wanha Posti)**  
    📍 Keskuskatu 16, 30100 Forssa, Finland  
-   🗺️ https://waze.com/ul/h9vf0xhfxg
+   🗺️ https://waze.com/ul?ll=60.8146,23.6242&navigate=yes
 
 3. **Ikaalinen Church**  
    📍 Kirkkotie 1, 39500 Ikaalinen, Finland  
-   🗺️ https://waze.com/ul/h9vf0z4dqz
+   🗺️ https://waze.com/ul?ll=61.7701,23.0702&navigate=yes
 
 4. **🎯 MAIN DESTINATION: Ikaalinen Spa & Resort**  
    📍 Hämeentie 6, 39500 Ikaalinen, Finland  
-   🗺️ https://waze.com/ul/h9vf12nrh8  
+   🗺️ https://waze.com/ul?ll=61.7706,23.0772&navigate=yes  
    📞 +358 3 4521 200
 
 5. **Pyynikki Tower, Tampere**  
    📍 Pyynikintie 1, 33230 Tampere, Finland  
-   🗺️ https://waze.com/ul/h9vf14m2s1
+   🗺️ https://waze.com/ul?ll=61.4951,23.7262&navigate=yes
 
 6. **Hämeenlinna Castle**  
    📍 Kustaa III:n katu 6, 13100 Hämeenlinna, Finland  
-   🗺️ https://waze.com/ul/h9vf16k8p4
+   🗺️ https://waze.com/ul?ll=60.9950,24.4642&navigate=yes
 
 ---
 
