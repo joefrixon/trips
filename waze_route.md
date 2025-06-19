@@ -1,5 +1,11 @@
 # 🗺️ Complete Waze Route for Captain JD's Midsummer Adventure
 
+## 🚗 **Single Waze URL - Complete Route**
+
+**📱 Full Route Link**: https://waze.com/ul?ll=60.2055,24.6559&navigate=yes&q=Torikatu%201%2C%2010300%20Karjaa%2C%20Finland%20to%20Keskuskatu%2016%2C%2030100%20Forssa%2C%20Finland%20to%20Vanha%20Tampereentie%206%2C%2039500%20Ikaalinen%2C%20Finland%20to%20Huvilatie%202%2C%2039500%20Ikaalinen%2C%20Finland%20to%20N%C3%A4k%C3%B6tornintie%2020%2C%2033230%20Tampere%2C%20Finland%20to%20Kustaa%20III%3An%20katu%206%2C%2013100%20H%C3%A4meenlinna%2C%20Finland%20to%20Espoo%2C%20Finland
+
+**🗺️ Alternative Google Maps Route**: https://maps.google.com/maps/dir/Espoo,+Finland/Torikatu+1,+10300+Karjaa,+Finland/Keskuskatu+16,+30100+Forssa,+Finland/Vanha+Tampereentie+6,+39500+Ikaalinen,+Finland/Huvilatie+2,+39500+Ikaalinen,+Finland/N%C3%A4k%C3%B6tornintie+20,+33230+Tampere,+Finland/Kustaa+III:n+katu+6,+13100+H%C3%A4meenlinna,+Finland/Espoo,+Finland
+
 ---
 
 ## 🎯 **Alternative Method - Step by Step Route Creation**
@@ -33,6 +39,21 @@ If the single URL doesn't work perfectly, here's how to create the route manuall
 1. **Ikaalinen Spa → Tampere**: https://waze.com/ul?ll=61.4962,23.7326&navigate=yes
 2. **Tampere → Hämeenlinna**: https://waze.com/ul?ll=61.0035,24.4582&navigate=yes
 3. **Hämeenlinna → Espoo**: https://waze.com/ul?ll=60.2055,24.6559&navigate=yes
+
+---
+
+## 🗺️ **Individual Google Maps Links for Each Stop**
+
+### **Day 1 - Outbound Journey**
+1. **Espoo → Karjaa**: https://maps.google.com/?q=Torikatu+1,+10300+Karjaa,+Finland
+2. **Karjaa → Forssa**: https://maps.google.com/?q=Keskuskatu+16,+30100+Forssa,+Finland
+3. **Forssa → Ikaalinen Church**: https://maps.google.com/?q=Vanha+Tampereentie+6,+39500+Ikaalinen,+Finland
+4. **Ikaalinen Church → Spa**: https://maps.google.com/?q=Huvilatie+2,+39500+Ikaalinen,+Finland
+
+### **Day 2 - Return Journey**
+1. **Ikaalinen Spa → Tampere**: https://maps.google.com/?q=Näkötornintie+20,+33230+Tampere,+Finland
+2. **Tampere → Hämeenlinna**: https://maps.google.com/?q=Kustaa+III:n+katu+6,+13100+Hämeenlinna,+Finland
+3. **Hämeenlinna → Espoo**: https://maps.google.com/?q=Espoo,+Finland
 
 ---
 
