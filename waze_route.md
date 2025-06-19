@@ -1,9 +1,5 @@
 # 🗺️ Complete Waze Route for Captain JD's Midsummer Adventure
 
-## 🚗 **Single Waze URL - Complete Route**
-
-**📱 Full Route Link**: https://waze.com/ul?ll=60.2055,24.6559&navigate=yes&q=Torikatu%201%2C%2010300%20Karjaa%2C%20Finland%20to%20Keskuskatu%2016%2C%2030100%20Forssa%2C%20Finland%20to%20Vanha%20Tampereentie%206%2C%2039500%20Ikaalinen%2C%20Finland%20to%20Huvilatie%202%2C%2039500%20Ikaalinen%2C%20Finland%20to%20N%C3%A4k%C3%B6tornintie%2020%2C%2033230%20Tampere%2C%20Finland%20to%20Kustaa%20III%3An%20katu%206%2C%2013100%20H%C3%A4meenlinna%2C%20Finland%20to%20Espoo%2C%20Finland
-
 ---
 
 ## 🎯 **Alternative Method - Step by Step Route Creation**
